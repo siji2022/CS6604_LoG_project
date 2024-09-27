@@ -1,8 +1,8 @@
 # Graph-Based Anomaly Detection and Predictive Modeling on Sensor Networks
 
-#### this is the course project of Virginia Tech 6604 Learnign on Graph
+##### The course project of Virginia Tech 6604 Learnign on Graph
 
-### Daodao Zhou, Jianger Yu and Siji Chen
+#### Daodao Zhou, Jianger Yu and Siji Chen
 
 In this project, we aim to leverage machine learning techniques in conjunction with graph-based approaches to analyze a real-world dataset published by Intel This dataset, collected from 54-node sensor network, encompasses both spatial and temporal information, including measurements of temperature, humidity, light and voltage.
 
