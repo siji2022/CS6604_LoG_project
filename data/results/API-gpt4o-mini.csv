@@ -1,0 +1,9 @@
+timestamp,nodeid,temperature_anomaly,humidity_anomaly,voltage_anomaly
+1516,17,1,0,0
+1518,17,1,0,0
+1547,16,1,0,0
+1550,17,1,0,0
+1552,17,1,0,0
+1553,17,1,0,0
+1554,17,1,0,0
+1555,16,1,0,0
