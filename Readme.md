@@ -3,7 +3,7 @@ The course project of Virginia Tech CS6604 Learnign on Graph
 #### Daodao Zhou, Jianger Yu and Siji Chen
 
 ## Overview
-In this project, we aim to leverage Large Language Model(LLM) to analyze anomaly in the "Motes dataset", which was collected from 54 sensors deployed at the Intel Berkeley Research Lab between February 28th and April 5th, 2004.
+In this project, we aim to leverage Large Language Model(LLM) to analyze anomaly in the "Motes dataset", which was collected from 54 sensors deployed at the Intel Berkeley Research Lab between February 28th and April 5th, 2004. Each record has timestamp, nodeid, temperature, humdity, light and voltage.
 
 Our results show: 
 - LLMs can effectively detect anomalies in the given dataset.
