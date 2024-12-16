@@ -41,7 +41,7 @@ The files under root directory:
 - `manual_labeling.ipynb`: manually create the labels.
 - `prompt2024.ipynb`: GPT API code
 - `position_analysis.ipynb`: spatial analysis
-- `ead.ipynb`: Exploratory data analysis
+- `eda.ipynb`: Exploratory data analysis
 
 ## How to Use
 1. Clone this repository to your local machine. We use python=3.9.
