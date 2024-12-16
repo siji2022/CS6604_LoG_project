@@ -9,6 +9,9 @@ Our results show:
 - LLMs can effectively detect anomalies in the given dataset.
 - Among the LLM variants tested, GPT-4o-mini demonstrated slightly better performance for temperature anomaly detection. When using the straight forward prompts e.g. Vanilla and Chain of Thought (COT), which achieved the highest F1 scores of 0.91. For humidity and voltage GPT-4 has better performance.
 - All LLM models outperformed traditional methods (KDE and Seasonal Decomposition) in our experiments. KDE also took hours to complete and timeout when using it as assignment method.
+
+![Temperature Anomalies Detected by GPT models and Traditional Models for Nodes 4, 16 and 19 ](/image/case_study_temp.png)
+
 ## Results highlight
 
 || **Metric**  | **LLM**     | **Kernel Density Estimation**     | **Seasonal Decomposition**      |
